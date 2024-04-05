@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 Hola, bienvenido a mi perfil de GitHub.<br>Soy un apasionado programador junior con un gran entusiasmo por aprender y mejorar continuamente. Mi objetivo principal es desarrollar mis habilidades existentes mientras adquiero nuevos conocimientos en el apasionante mundo de la programación.<br><br>Con una mentalidad de aprendizaje constante, estoy emocionado de sumergirme en diversos proyectos y desafíos que me ayuden a crecer profesionalmente. Mi pasión por la programación me impulsa a participar activamente en proyectos innovadores donde pueda contribuir y aprender de otros desarrolladores.<br><br>Siempre estoy abierto a nuevas oportunidades y colaboraciones, así que ¡no dudes en contactarme si tienes un proyecto emocionante en el que pueda participar!
 
 
